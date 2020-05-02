@@ -1,4 +1,4 @@
-# Failure related terms and definitions
+# Failure-related terms and definitions
 
 ## Failure
 
@@ -15,6 +15,8 @@ termination of an intended behavior of an element \(3.41\) or an item \(3.84\) d
 failure rate \(3.53\) of a hardware element \(3.41\) in a given application use case used as an input to safety \(3.132\) analyses 
 
 给定应用程序用例中的硬件元素（3.41）的故障率（3.53\), 用作安全性（3.132）分析的输入
+
+## Dual-point failure
 
 ## Cascading failure \(级联失效\)
 
