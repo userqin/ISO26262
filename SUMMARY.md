@@ -14,4 +14,5 @@
 ## 2 Methodologies <a id="methodologies"></a>
 
 * [FTA](fta.md)
+* [FMEDA](fmeda.md)
 
