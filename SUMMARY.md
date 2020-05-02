@@ -7,3 +7,7 @@
 * [Safety-related terms and definitions](safety-related-terms-and-definitions.md)
 * [Time related terms and definitions](time-related-terms-and-definitions.md)
 
+## Methodologies
+
+* [Untitled](methodologies/untitled.md)
+
