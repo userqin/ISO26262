@@ -2,7 +2,7 @@
 
 ## 3.35 Diagnostic test time interval \(DTTI\)
 
-amount of time between the executions of online diagnostic tests by a safety mechanism \(3.142\) including duration of the execution of an online diagnostic test.
+amount of time between the executions of online diagnostic tests by a safety mechanism [\(3.142\)](https://app.gitbook.com/@lingqiao/s/iso-26262/safety-related-terms-and-definitions) including duration of the execution of an online diagnostic test.
 
 ## 3.55 Fault detection time interval \(FDTI\)
 
