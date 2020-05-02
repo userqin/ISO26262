@@ -4,6 +4,10 @@
 
 termination of an intended behavior of an element \(3.41\) or an item \(3.84\) due to a fault \(3.54\)
 
+由于故障所导致的要素的或者元件的预期行为的终止
+
+
+
 ## Failure mode
 
 ## Failure mode coverage
@@ -17,6 +21,10 @@ failure rate \(3.53\) of a hardware element \(3.41\) in a given application use 
 给定应用程序用例中的硬件元素（3.41）的故障率（3.53\), 用作安全性（3.132）分析的输入
 
 ## Dual-point failure
+
+## Multiple-point failure
+
+
 
 ## Cascading failure \(级联失效\)
 
@@ -37,7 +45,11 @@ Figure 2 indicates that：
 
 ## Common Cause Failure \(CCF\)
 
+## 3.79 Independent Failures
 
+failures \(3.50\) whose probability of simultaneous or successive occurrence can be expressed as the simple product of their unconditional probabilities.
+
+> Note 1 to entry: independent failures can include software failures \(3.50\) even if their probability of failure is not calculated.
 
 
 

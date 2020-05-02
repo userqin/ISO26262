@@ -12,6 +12,14 @@ one of four levels to specify the item's \(3.84\) or element's \(3.41\) necessar
 
 四个等级中的每一个等级定义了 相关项 \(3.84\) 或要素 \(3.41\) 的必要的ISO 26262 要求和安全措施\(3.141\),用以避免不合理的风险\(3.176\), 其中 D 代表最高严格等级, A 代表最低严格等级
 
+In 26262, ASIL is calculated based on :
+
+* the severity of the injuries that could result from an event;
+* the likelihood the event will occur in normal operation;
+* and the number of drivers that could control the situation to avoid the injury.
+
+
+
 ## ASIL capability
 
 capability of the item \(3.84\) or element \(3.41\) to meet assumed safety \(3.132\) requirements assigned with a given ASIL \(3.6\)

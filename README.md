@@ -30,25 +30,33 @@ capability of the item \(3.84\) or element \(3.41\) to meet assumed safety \(3.1
 
 
 
-## Element
+## 3.41 Element
 
-## Error
+system \(3.163\) that consists of electrical or electronic elements \(3.41\),  including programmable electronic elements \(3.41\)
 
-## Exposure
+> Note 1 to entry:  when "software element" or "hardware element" is used, this phrase denotes an element of software or an element of hardware only, respectively.
+>
+> Note 2 to entry: an element may also be a SEooC \(3.138\)
+
+由电气或电子元件（3.41）组成的包括可编程电子元件（3.41）的 系统（3.163）
+
+## 3.46 Error
+
+discrepancy between a computed, observed or measured value or condition, and the true, specified or theoretically correct value or condition
+
+计算的、观测的、测量的值或条件与真实的、规定的、理论上正确的值或条件之间的差异。
+
+> Note 1 to entry: an error can arise as a result of a fault \(3.54\) within the system \(3.163\) or component \(3.21\) being considered
+
+## 3.48 Exposure
+
+state of being in an operational situation \(3.104\) that can be hazardous if coincident with the failure mode \(3.51\) under analysis
+
+> Note 1 to entry: the parameter "E" in hazard analysis and risk assessment \(3.76\) represents the potential exposure to the operational situation \(3.104\)
 
 ## External measure
 
-## ASIL decomposition
-
-apportioning of redundant safety \(3.132\) requirements to elements \(3.41\), with sufficient independence \(3.78\), conducing to the same safety goal \(3.139\), with the objective of reducing the ASIL \(3.6\) of the redundant safety \(3.132\) requirements that are allocated to the corresponding elements \(3.41\)
-
-> Note 1 to entry: ASIL decomposition is a basis for methods of ASIL \(3.6\) tailoring during the design process \(defined as requirements decomposition with respect to ASIL \(3.6\) tailoring in ISO 26262-9\).
-
-> Note 2 to entry: ASIL decomposition does not apply to random hardware failure requirements per ISO 26262-9. Note 3 to entry: Reducing the ASIL \(3.6\) of the redundant safety \(3.132\) requirement
-
-> Note 3 to entry: Reducing the ASIL \(3.6\) of the redundant safety \(3.132\) requirements has some exclusions, e.g. confirmation measures \(3.23\) remain at the level of the safety goal \(3.139\).
-
-将冗余安全（3.132）要求以足够的独立性 （3.78）分配给元素（3.41\)，从而确保相同的安全目标（3.139），目的是减少分配给相应的元素（3.41）的冗余安全性（3.132）要求的ASIL（3.6）
+measure that is separate and distinct from the item \(3.84\) which reduces or mitigates the risks \(3.128\) resulting from the item \(3.84\)
 
 
 
