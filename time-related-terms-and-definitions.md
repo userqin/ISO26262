@@ -1,6 +1,6 @@
 # Time related terms and definitions
 
-### 3.35 Diagnostic test time interval \(DTTI\) <a id="3-35-Diagnostic-test-time-interval-DTTI"></a>
+## 3.35 Diagnostic test time interval \(DTTI\)
 
 amount of time between the executions of online diagnostic tests by a safety mechanism \(3.142\) including duration of the execution of an online diagnostic test.
 
@@ -10,31 +10,51 @@ time-span from the occurrence of a fault \(3.54\) to its detection
 
 > Note 1 to entry : see Figure 5
 >
-> Note 2 to entry: Fault detection time interval is determined independently of diagnostic test time interval \(3.35\).
+> Note 2 to entry: fault detection time interval is determined independently of diagnostic test time interval \(3.35\).
 >
 > EXAMPLE The fault detection time interval of a diagnostic test can be longer than the diagnostic test time interval \(3.35\) due to implemented error \(3.46\) counters, i.e. the fault \(3.54\) must be detected more than once by the diagnostic test before triggering an error \(3.46\) reaction.
 >
-> Note 3 to entry: Fault detection time interval, diagnostic test time interval \(3.35\), and fault reaction time interval \(3.59\) are relevant characteristics of a safety mechanism \(3.142\) based on fault \(3.54\) detection.
+> Note 3 to entry: fault detection time interval, diagnostic test time interval \(3.35\), and fault reaction time interval \(3.59\) are relevant characteristics of a safety mechanism \(3.142\) based on fault \(3.54\) detection.
 >
-> Note 4 to entry: A fault \(3.54\) is timely covered by the corresponding safety mechanism \(3.142\) if the fault detection time interval plus the fault reaction time interval \(3.59\) is lower than the relevant fault tolerant time interval \(3.61\).
+> Note 4 to entry: a fault \(3.54\) is timely covered by the corresponding safety mechanism \(3.142\) if the fault detection time interval plus the fault reaction time interval \(3.59\) is lower than the relevant fault tolerant time interval \(3.61\).
 
 ## 3.56 Fault handling time interval \(FHTI\)
+
+sum of fault detection time interval \(3.55\) and the fault reaction time interval \(3.59\)
+
+> Note 1 to entry: the FHTI is a property of a safety mechanism \(3.142\)
+>
+> Note 2 to entry: see Figure 5
+
+## 3.59 Fault reaction time interval \(FRTI\)
+
+time span from the detection of a fault \(3.54\) to reaching a safe state \(3.131\) or to reaching emergency operation \(3.43\)
+
+> Note 1 to entry: see Figure 4 and Figure 5
+
+## 3.61 Fault tolerant time interval \(FTTI\)
+
+minimum time-span from the occurrence of a fault \(3.54\) in an item \(3.84\) to a possible occurrence of a hazardous event \(3.77\), if the safety mechanisms \(3.142\) are not activated.
+
+> Note 1 to entry: see Figure 5
+>
+> Note 2 to entry: the minimum time-span is to be evaluated over all hazardous events \(3.77\). It can depend on the characterization of the hazards \(3.75\)
+>
+> Note 3 to entry: 
+>
+> Note 4 to entry:
+>
+> Note 5 to entry:
+>
+> Note 6 to entry:
+>
+> Note 7 to entry:
+
+
 
 ## 3.98 Multiple-point fault detection time interval
 
 time-span to detect a multiple-point fault \(3.97\) before it can contribute to a multiple-point failure \(3.96\)
-
-## 3.108 Perceived fault
-
-## 3.109 Permanent fault
-
-## 3.119 Random hardware fault
-
-## 3.125 Residual fault
-
-## 3.130 Safe fault
-
-fault \(3.54\) whose occurrence will not significantly increase the probability of violation of a safety goal \(3.139\)
 
 > Note 1 to entry: As shown in ISO 26262-5:2018, Annex B, both non-safety and safety-related elements \(3.144\) can have safe faults.
 >
