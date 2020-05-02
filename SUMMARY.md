@@ -15,4 +15,6 @@
 
 * [FTA](fta.md)
 * [FMEDA](fmeda.md)
+* [Hazard analysis and risk assessment \(HARA\)](hazard-analysis-and-risk-assessment-hara.md)
+* [Verification](verification.md)
 
