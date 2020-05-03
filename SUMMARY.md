@@ -14,7 +14,10 @@
 ## 2 Methodologies <a id="methodologies"></a>
 
 * [FTA](fta.md)
+* [FMEA](fmea.md)
 * [FMEDA](fmeda.md)
+* [HAZOP](hazop.md)
 * [Hazard analysis and risk assessment \(HARA\)](hazard-analysis-and-risk-assessment-hara.md)
 * [Verification](verification.md)
+* [Verification and Validation](verification-and-validation.md)
 

@@ -28,6 +28,16 @@ capability of the item \(3.84\) or element \(3.41\) to meet assumed safety \(3.1
 
 ## Controllability
 
+estimation of probability that someone is able to gain sufficient control of the hazardous event, such that they are able to avoid the specific harm.
+
+The parameter C is used to classify the potential of avoiding the harm by traffic participants.
+
+Examples of controllability can be found in ISO 26262-3:2018\(E\) B.6.
+
+![](.gitbook/assets/picture1.png)
+
+![](.gitbook/assets/c2.png)
+
 
 
 ## 3.41 Element
@@ -57,4 +67,8 @@ state of being in an operational situation \(3.104\) that can be hazardous if co
 ## External measure
 
 measure that is separate and distinct from the item \(3.84\) which reduces or mitigates the risks \(3.128\) resulting from the item \(3.84\)
+
+## T&B
+
+Trucks, Buses, trailers and semi-trailers
 
