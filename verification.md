@@ -22,3 +22,9 @@ method to identify and categorize hazardous events \(3.77\) of items \(3.84\) an
 
 ### Step 2: HARA initialization
 
+
+
+## References
+
+1. [ISO 26262-3:2018 Road vehicles — Functional safety ](https://www.iso.org/standard/68383.html)
+

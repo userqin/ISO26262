@@ -72,3 +72,7 @@ measure that is separate and distinct from the item \(3.84\) which reduces or mi
 
 Trucks, Buses, trailers and semi-trailers
 
+## References
+
+1. [ISO 26262-3:2018 Road vehicles — Functional safety ](https://www.iso.org/standard/68383.html)
+

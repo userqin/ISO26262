@@ -64,3 +64,9 @@ time-span to detect a multiple-point fault \(3.97\) before it can contribute to 
 
 
 
+## References
+
+1. [ISO 26262-3:2018 Road vehicles — Functional safety ](https://www.iso.org/standard/68383.html)
+
+
+

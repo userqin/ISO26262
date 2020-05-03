@@ -40,9 +40,9 @@ apportioning of redundant safety \(3.132\) requirements to elements \(3.41\), wi
 
 将冗余安全（3.132）要求以足够的独立性 （3.78）分配给元素（3.41\)，从而确保相同的安全目标（3.139），目的是减少分配给相应的元素（3.41）的冗余安全性（3.132）要求的ASIL（3.6）
 
+## References
 
-
-
+1. [ISO 26262-3:2018 Road vehicles — Functional safety ](https://www.iso.org/standard/68383.html)
 
 
 
