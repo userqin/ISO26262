@@ -10,6 +10,7 @@
 * [Fault-related terms and definitions](fault-related-terms-and-definitions.md)
 * [Safety-related terms and definitions](safety-related-terms-and-definitions.md)
 * [Time related terms and definitions](time-related-terms-and-definitions.md)
+* [Understand fail-safe systems in two minutes](understand-fail-safe-systems-in-two-minutes.md)
 
 ## 2 Methodologies <a id="methodologies"></a>
 
