@@ -1,6 +1,6 @@
 # FTA
 
-
+According to ISO 26262,  top-level events of fault trees represent hazardous events, which typically is a violation of a safety goal.
 
 ## References
 
