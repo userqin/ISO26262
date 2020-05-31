@@ -12,9 +12,15 @@ The absence of unreasonable risk due to hazards resulting from functional insuff
 
 ## Comparisons
 
-Functional safety is to prevent any crashes caused E/E systems. 
+Functional safety is to prevent any crashes caused by E/E systems. 
+
+
 
 SOTIF is a safety process that addresses unintended system behavior in the absence of random hardware failures.
+
+
+
+
 
 ## References
 
