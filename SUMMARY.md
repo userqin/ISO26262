@@ -21,5 +21,6 @@
 * [Hazard analysis and risk assessment \(HARA\)](methodologies/hazard-analysis-and-risk-assessment-hara.md)
 * [Verification](methodologies/verification.md)
 * [Verification and Validation](methodologies/verification-and-validation.md)
-* [Functional safety and SOTIF](functional-safety-and-sotif.md)
+* [FuSa and SOTIF](functional-safety-and-sotif.md)
+* [V model and safety life cycle](v-model-and-safety-life-cycle.md)
 
