@@ -14,6 +14,10 @@ All 12 parts are included in the V model. The **safety life cycle** consists of 
 * 6. Product development at the software level \(Part 6\)
 * 7. Production, operation, service and decommissioning \(Part 7\)
 
+## V model at the software level
+
+part 6 page 4
+
 ## FuSa safety life cycle
 
 
