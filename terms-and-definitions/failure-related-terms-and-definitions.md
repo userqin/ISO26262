@@ -1,20 +1,24 @@
 # Failure-related terms and definitions
 
-## Failure
+## 3.50 Failure
 
 termination of an intended behavior of an element \(3.41\) or an item \(3.84\) due to a fault \(3.54\)
 
 由于故障所导致的要素的或者元件的预期行为的终止
 
+## 3.51 Failure mode
 
+manner in which an element or an item fails to provide the intended behavior
 
-## Failure mode
+## 3.52 Failure mode coverage \(FMC\)
 
+proportion of the failure rate \(3.53\) of a failure mode \(3.51\) of a hardware element \(3.41\) that is detected or controlled by the implemented safety mechanism \(3.142\)
 
+## 3.53 Failure rate
 
-## Failure mode coverage
+probability density of failure \(3.50\) divided by probability of survival for a hardware element \(3.41\)
 
-## Failure rate
+Note 1 to entry: the failure rate is assumed to be constant is generally denoted as λ.
 
 ## Base failure rate \(BFR\)
 
@@ -27,6 +31,8 @@ failure rate \(3.53\) of a hardware element \(3.41\) in a given application use 
 ## Dual-point failure
 
 ## Multiple-point failure
+
+failure \(3.50\) resulting from the combination of several independent hardware faults \(3.54\), which leads directly to the violation of a safety goal \(3.139\).
 
 ## Cascading failure \(级联失效\)
 
