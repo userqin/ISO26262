@@ -6,11 +6,23 @@ Presented in ISO 26262-3 : 2018\(E\) Part-3, Chapter 7, Page 12
 
 ## 3.132 Safety
 
+absence of unreasonable risk \(3.176\)
+
 ## 3.133 Safety activity
+
+activity performed in one or more phases \(3.110\) or sub-phases \(3.161\) of the safety \(3.132\) lifecycle \(3.86\)
 
 ## 3.134 Safety anomaly
 
+conditions that deviate from expectations and that can lead to harm \(3.74\)
+
+Note 1 to entry: safety anomalies can be discovered, among other times, during the review \(3.127\),  testing \(3.169\), analysis, compilation, or use of components \(3.21\) or applicable documentation.
+
+Example  1: deviation can be on requirements, specifications, design documents, user documents, standards, or on experience.
+
 ## 3.135 Safety architecture
+
+set of elements \(3.41\) and their interaction to fulfil the safety \(3.132\) requirements.
 
 ## 3.136 Safety case
 
@@ -26,25 +38,85 @@ The safety case should progressively compile the work products that are generate
 
 ## 3.137 Safety element out of context
 
+SEooC
+
+safety-related element \(3.144\) which is not developed in the context of specific item \(3.84\)
+
+Note 1 to entry: a SEooC can be a system \(3.163\), a combination of systems \(3.163\), a software component \(3.157\), a software unit \(3.159\), a hardware component \(3.21\) or a hardware part \(3.71\).
+
+Example 1:  a generic wiper system \(3.163\) with assumed safety requirements to be integrated in different OEM systems \(3.163\).
+
 ## 3.138 Safety goal
+
+top-level safety \(3.132\) requirement as a result of the hazard analysis and risk assessment \(3.76\) at the vehicle level
+
+Note 1 to entry: one safety goal can be related to several hazards \(3.75\), and several safety goals can be related to a single hazard \(3.75\)
 
 ## 3.141 Safety measure
 
+activity or technical solution to avoid or control systematic failures \(3.164\) and to detect or control random hardware failures \(3.118\), or mitigate their harmful effects.
+
+Note 1 to entry: safety measures include safety mechanisms \(3.142\).
+
+Example 1: FMEA, or software without the use of global variables.
+
 ## 3.142 Safety mechanism
 
-## Safety element
+technical solution implemented by E/E functions or elements \(3.41\), or by other technologies \(3.105\), to detect and mitigate or tolerate faults \(3.54\) or control or avoid failures \(3.50\) in order to maintain intended functionality \(3.83\) or achieve or maintain a safe state \(3.131\).
 
-## Safety plan
+Note 1 to entry: safety mechanisms are implemented within the item \(3.84\) to prevent faults \(3.54\) from leading to single-point failures \(3.155\) and to prevent faults \(3.54\) from being latent faults \(3.85\).
 
-## Safety-related function
+Note 2 to entry: the safety mechanism is either:
 
-## Safety validation
+a\) able to transition to, or maintain the item \(3.84\) in a safe state \(3.131\), or
+
+b\) able to alert the driver such that the driver is expected to control the effect of the failure \(3.50\), as defined in the functional safety concept \(3.68\).
+
+## 3.143 Safety plan
+
+plan to manage and guide the execution of the safety activities \(3.133\) of a project including dates, milestones, tasks, deliverables, responsibilities and resources
+
+## 3.144 Safety-related element
+
+element \(3.41\) that has the potential to contribute to the violation of or achievement of a safety goal \(3.139\)
+
+Note 1 to entry: fail-safe elements \(3.41\) are considered safety-related if they contribute to at least one safety goal \(3.139\).
+
+## 3.145 Safety-related function
+
+function that has the potential to contribute to the violation of or achievement of a safety goal \(3.139\)
+
+## 3.146 Safety-related incident
+
+occurrence of a safety-related failure \(3.50\)
+
+## 3.147 Safety-related special characteristic
+
+characteristics of an item \(3.84\) or element \(3.41\), or their production process, for which reasonably foreseeable deviation could impact, contribute to, or cause any potential reduction of functional safety \(3.67\).
+
+Note 1 to entry:  IATF 16949 defines the term special characteristics.
+
+Note 2 to entry: safety-related special characteristics are derived during the development phase \(3.110\) of the item \(3.84\) or elements \(3.41\).
+
+Note 3 to entry: a safety-related special characteristic is different from and should not be confused with a safety mechanism \(3.142\).
+
+Example 1 temperature range, expiration date, fastening torque, production tolerance, configuration. 温度范围、 有效期限、 紧固力矩、 生产公差、 配置。
+
+## 3.148 Safety validation \(安全确认\)
+
+assurance, based on examination and tests, that the safety goals \(3.139\) are adequate and have been achieved with a sufficient level of integrity.
+
+Note 1 to entry: ISO 26262-4 provides suitable methods for safety validation
 
 ## Technical safety concept
 
+specification of the technical safety requirements \(3.168\) and their allocation to system \(3.163\) elements \(3.41\) with associated information providing a rationale for functional safety \(3.67\) at the system \(3.163\) level  \(技术安全要求的定义和为了能够通过系统设计实现功能而将技术安全要求向系统 ****要素的分配）
+
 ## Technical safety requirement
 
+requirement derived for implementation of associated functional safety requirements \(3.69\) 
 
+Note 1 to entry: the derived requirement includes requirements for mitigation\(得出的要求包括减轻失效所需的要求\).
 
 ## References
 

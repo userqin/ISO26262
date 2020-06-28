@@ -80,6 +80,10 @@ hardware fault \(3.54\) with a probabilistic distribution
 
 multiple-point fault \(3.97\) whose presence is not detected by a safety mechanism \(3.142\) nor perceived by the driver within the multiple-point fault detection time interval \(3.98\)
 
+Note 1 to entry: this presumes that the hardware element \(3.41\) has safety mechanism \(3.142\) coverage for only a portion of its faults \(3.54\).
+
+Example 1: if a set of faults \(3.54\) which is safety-relevant and not safe has a subset within 60% coverage, then the remaining 40% of the set faults \(3.54\) are residual faults.
+
 ## 3.130 Safe fault
 
 fault \(3.54\) whose occurrence will not significantly increase the probability of violation of a safety goal \(3.139\)
