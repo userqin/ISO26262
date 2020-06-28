@@ -10,6 +10,8 @@ termination of an intended behavior of an element \(3.41\) or an item \(3.84\) d
 
 ## Failure mode
 
+
+
 ## Failure mode coverage
 
 ## Failure rate

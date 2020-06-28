@@ -27,3 +27,7 @@
 * [FuSa and SOTIF](functional-safety-and-sotif.md)
 * [V model and safety life cycle](v-model-and-safety-life-cycle.md)
 
+## Part 3: concept phase
+
+* [Part 3: Concept phase summary](part-3-concept-phase/part-3-concept-phase-summary.md)
+
