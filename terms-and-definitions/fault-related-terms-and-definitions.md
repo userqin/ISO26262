@@ -52,7 +52,7 @@ ability to deliver a specified functionality in the presence of one or more spec
 
 Note 1 to entry: specified functionality can be intended functionality \(3.83\)
 
-## 3.85 Latent fault
+## 3.85 Latent fault （潜伏故障）
 
 multiple-point fault \(3.97\) whose presence is not detected by a safety mechanism \(3.142\) nor perceived by the driver within multiple-point fault detection time interval \(3.98\).
 
@@ -76,7 +76,7 @@ Note 1 to entry: direct current \(d.c.\) faults \(3.54\) e.g., stuck-at, and bri
 
 hardware fault \(3.54\) with a probabilistic distribution
 
-## 3.125 Residual fault
+## 3.125 Residual fault \(残余故障\)
 
 multiple-point fault \(3.97\) whose presence is not detected by a safety mechanism \(3.142\) nor perceived by the driver within the multiple-point fault detection time interval \(3.98\)
 
@@ -84,9 +84,9 @@ Note 1 to entry: this presumes that the hardware element \(3.41\) has safety mec
 
 Example 1: if a set of faults \(3.54\) which is safety-relevant and not safe has a subset within 60% coverage, then the remaining 40% of the set faults \(3.54\) are residual faults.
 
-## 3.130 Safe fault
+## 3.130 Safe fault （安全故障）
 
-fault \(3.54\) whose occurrence will not significantly increase the probability of violation of a safety goal \(3.139\)
+fault \(3.54\) whose occurrence will not significantly increase the probability of violation of a safety goal \(3.139\) （不会显著增加违背安全目标的概率的故障）
 
 Note 1 to entry: As shown in ISO 26262-5:2018, Annex B, both non-safety and safety-related elements \(3.144\) can have safe faults. 
 

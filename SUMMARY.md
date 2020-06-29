@@ -30,4 +30,5 @@
 ## Part 3: concept phase
 
 * [Part 3: Concept phase summary](part-3-concept-phase/part-3-concept-phase-summary.md)
+* [Part 5: Product development at the hardware level](part-3-concept-phase/part-5-product-development-at-the-hardware-level.md)
 
